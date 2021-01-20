@@ -1,18 +1,9 @@
 # Bioinformatics in Python
 
-## Resources
-
-- CoreyMS.com/Corey Schafer@Youtube
-- OMGometics@Youtube
-- Codeacademy.
-- Rosalind Challenges
+## Rosalind
 - My [Rosalind profile](http://rosalind.info/users/PiedmontCavalier/)
 
-## Setting up the Programming Environment
-
-- VS Code
-
-## DNA Toolkit
+## DNA Toolset
 
 - Validate sequence
 - Count sequence frequency
@@ -21,4 +12,9 @@
 - Molecular evolution
 - Gemonic data science: clustering/HMM
 - Finding mutations
-˜
+
+## Resources
+
+- CoreyMS.com Corey Schafer@Youtube
+- OMGometics@Youtube
+- Codeacademy
